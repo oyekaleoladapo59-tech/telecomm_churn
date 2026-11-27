@@ -14,3 +14,9 @@ This project uses MySQL for data cleaning, transformation and analysis, while Mi
 ## PROJECT OBJECTIVE
 
 To analyse the Telco Customer Churn dataset using MySQL to identify patterns and factors associated with customers who are retained or tend to leave across different customer segments, account characteristics and subscribed services, using Churn as the target variable. The analysis also aims to generate actionable insights and recommend effective strategies for improving customer retention.
+
+## DATASET SOURCE
+The dataset used for this project is a CSV (Comma-Separated Values) file containing 7,043 rows and 21 columns. It provides customer-related information covering demographics, account details, subscribed services, billing information and churn status.
+
+The dataset was obtained from Kaggle and downloaded from the following source:
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
