@@ -10,3 +10,7 @@ The Telco Customer Churn dataset contains information on 7,043 customers of a te
 The dataset provides information about customers who have either discontinued or continued using the company's services. It offers an opportunity to examine customer behaviour, identify patterns associated with customer attrition and understand the factors that may influence customers' decisions to leave or remain with the company.
 
 This project uses MySQL for data cleaning, transformation and analysis, while Microsoft Excel is used for data visualization through PivotTables, PivotCharts and an interactive dashboard. The ultimate goal is to generate meaningful insights and provide data-driven recommendations to support effective customer retention strategies.
+
+## PROJECT OBJECTIVE
+
+To analyse the Telco Customer Churn dataset using MySQL to identify patterns and factors associated with customers who are retained or tend to leave across different customer segments, account characteristics and subscribed services, using Churn as the target variable. The analysis also aims to generate actionable insights and recommend effective strategies for improving customer retention.
