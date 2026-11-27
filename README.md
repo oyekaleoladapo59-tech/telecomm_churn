@@ -20,3 +20,11 @@ The dataset used for this project is a CSV (Comma-Separated Values) file contain
 
 The dataset was obtained from Kaggle and downloaded from the following source:
 https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+## TOOLS AND TECHNOLOGIES
+
+MySQL Workbench: Used for database creation, data importation, data cleaning, data transformation and customer churn analysis using SQL.
+
+Microsoft Excel: Used for creating PivotTables, PivotCharts and a one-page dashboard to visualize the results obtained from the SQL analysis.
+
+GitHub: Used for project documentation, version control and hosting the project files.
