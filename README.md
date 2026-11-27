@@ -1,3 +1,5 @@
 # Telco-Customer-Churn-Dataset-Focused-Customer-Retention-Program
 USING MySQL FOR ALL DATA CLEANING AND ANALYSIS, WHILE MICROSOFT EXCEL WILL BE USED EXCLUSIVELY FOR VISUALIZATION AND DASHBOARD PRESENTATION 
 
+<img width="502" height="333" alt="{D36CFD3F-E1FB-4FD9-923B-D54EA62C1C7C}" src="https://github.com/user-attachments/assets/ea55d924-76e2-4142-9568-7111a9904c47" />
+
