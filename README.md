@@ -28,3 +28,7 @@ MySQL Workbench: Used for database creation, data importation, data cleaning, da
 Microsoft Excel: Used for creating PivotTables, PivotCharts and a one-page dashboard to visualize the results obtained from the SQL analysis.
 
 GitHub: Used for project documentation, version control and hosting the project files.
+
+## DATA CLEANING (SQL)
+
+Data cleaning was performed using MySQL Workbench to improve the quality, consistency and reliability of the Telco Customer Churn dataset before conducting further analysis. The process involved identifying missing values, checking duplicate customer records, removing unnecessary spaces, correcting data types and transforming selected columns to improve data consistency and support meaningful analysis.
