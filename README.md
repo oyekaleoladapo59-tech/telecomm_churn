@@ -122,6 +122,48 @@ The following query was used to confirm that the conversion was successful.
 
 <img width="477" height="157" alt="{792036E4-D094-482E-BEFD-0D7101DE947B}" src="https://github.com/user-attachments/assets/2ec3b82a-c88a-4456-b20a-40c42891cfd0" />
 
+# Creating a Tenure Group column
 
+To group customers according to the number of months they have stayed with the company using the SQL CASE statement.
+
+1. Creating a New Column
+
+An additional column named TenureGroup was added to the dataset to store the customer tenure categories.
+
+<img width="436" height="75" alt="{2F1CCFFF-F1E8-4B80-98A6-C540D5332E7A}" src="https://github.com/user-attachments/assets/6a3da4b3-a8a1-42fa-b44e-34ef51b719b2" />
+
+2. Categorising Customers Using CASE
+
+The CASE statement was used to classify customers into three groups based on their tenure in months.
+
+<img width="511" height="95" alt="{4C83EB31-5100-485C-9ABB-99900A049391}" src="https://github.com/user-attachments/assets/264b22d5-6df3-4b54-a96b-0ef77f566713" />
+
+3. Verifying the Results
+
+The following query was used to confirm that customers were correctly assigned to their respective tenure groups.
+
+<img width="591" height="175" alt="{307A630F-F304-42E1-ADC0-1ECE27623BD8}" src="https://github.com/user-attachments/assets/e6960c95-6176-4d30-b647-ad1f6cf8182b" />
+
+# Renaming Contract Values
+
+To simplify and standardise the categories in the Contract column by replacing the existing contract values with shorter and more descriptive labels.
+
+1. Checking Existing Contract Values
+
+The DISTINCT command was used to identify the unique contract categories in the dataset.
+
+<img width="511" height="177" alt="{B2DA005F-293B-4BF8-B158-01D65CB93AEA}" src="https://github.com/user-attachments/assets/68bfdd96-6a3f-447b-886d-f0039d584bae" />
+
+2. Renaming Contract Values
+
+The SQL CASE statement was used to replace the existing contract values with the new labels.
+
+<img width="570" height="105" alt="{2B394ED9-7617-400E-B542-51BD043480DC}" src="https://github.com/user-attachments/assets/97451cd1-3749-4d82-b0d7-18245445f94b" />
+
+3. Verifying the Changes
+
+The following query was used to confirm that the contract values were successfully renamed.
+
+<img width="525" height="145" alt="{F91B7114-3225-4AC0-8E62-40A0D0835955}" src="https://github.com/user-attachments/assets/fd1903d5-22c7-4a14-afa4-6a4a061d6863" />
 
 
